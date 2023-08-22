@@ -1,5 +1,4 @@
-Ethical and Social Implications of AI
-===================================================================================================
+
 
 As artificial intelligence (AI) continues to transform the hospitality industry, it is important to consider the ethical and social implications of these technologies. While AI can offer significant benefits, such as enhancing guest experiences and improving operational efficiency, there are also potential risks and challenges that need to be addressed. In this chapter, we will explore the ethical and social implications of AI in the hospitality industry.
 

@@ -1,5 +1,4 @@
-Overview of AI Techniques in Hospitality
-=====================================================================================
+
 
 Artificial intelligence (AI) is transforming the hospitality industry, and a wide range of AI techniques are being used to optimize operations, enhance guest experiences, and increase revenue. In this chapter, we will provide an overview of the primary AI techniques being used in hospitality.
 

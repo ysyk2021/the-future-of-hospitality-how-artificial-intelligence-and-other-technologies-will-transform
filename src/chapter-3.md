@@ -1,5 +1,4 @@
-Chapter 2: Applications of AI in Hospitality Operations
-=======================================================
+
 
 Artificial intelligence (AI) technologies are transforming the way that hotels and other hospitality businesses operate. In this chapter, we will explore specific applications of AI in hospitality operations, including guest services and personalization, revenue management, inventory and supply chain management, and operation optimization and efficiency.
 

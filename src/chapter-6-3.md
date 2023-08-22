@@ -1,5 +1,4 @@
-Henn-na Hotel's Robotic Staff
-===========================================================================
+
 
 Henn-na Hotel, located in Nagasaki, Japan, made headlines in 2015 for being the world's first hotel fully staffed by robots. The hotel features a range of robots that perform a variety of tasks, from checking guests in to carrying luggage. In this chapter, we will explore Henn-na Hotel's use of robotic staff and the impact it has had on the hospitality industry.
 

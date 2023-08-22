@@ -1,5 +1,4 @@
-Chapter 5: Case Studies of AI in Hospitality
-============================================
+
 
 As the hospitality industry continues to embrace artificial intelligence (AI) technologies, several businesses are already leveraging AI to enhance guest experiences, streamline operations, and drive innovation. In this chapter, we will examine case studies of AI in hospitality, including Marriott's use of chatbots, Hilton's digital key, Henn-na Hotel's robotic staff, and Alibaba's FlyZoo Hotel.
 

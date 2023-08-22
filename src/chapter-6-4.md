@@ -1,5 +1,4 @@
-Alibaba's FlyZoo Hotel
-====================================================================
+
 
 Alibaba's FlyZoo Hotel, located in Hangzhou, China, is a cutting-edge hotel that showcases the possibilities of artificial intelligence (AI) and other technologies in the hospitality industry. In this chapter, we will explore the case study of FlyZoo Hotel and how it has leveraged AI to create a unique and innovative guest experience.
 

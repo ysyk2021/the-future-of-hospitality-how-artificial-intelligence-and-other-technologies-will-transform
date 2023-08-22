@@ -1,5 +1,4 @@
-The Importance of the Hospitality Industry
-========================================================
+
 
 The hospitality industry is a crucial component of the global economy, providing millions of jobs and generating billions of dollars in revenue each year. According to the World Travel and Tourism Council, the travel and tourism industry contributed 10.4% of global GDP in 2019. As the world becomes increasingly interconnected, the importance of the hospitality industry will only continue to grow.
 

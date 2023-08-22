@@ -1,5 +1,4 @@
-Chapter 3: AI and Customer Experience in Hospitality
-====================================================
+
 
 Artificial intelligence (AI) technologies have the potential to revolutionize customer experiences in the hospitality industry. In this chapter, we will explore some of the ways that AI is being used to enhance customer experiences, including smart room technologies, voice-activated hotel rooms, augmented and virtual reality experiences, and digital concierge services.
 

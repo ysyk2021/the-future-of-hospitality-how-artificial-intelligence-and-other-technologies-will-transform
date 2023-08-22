@@ -1,5 +1,4 @@
-Augmented and Virtual Reality Experiences
-===============================================================================================
+
 
 Artificial intelligence (AI) and related technologies are transforming the ways in which hotels interact with guests and provide personalized experiences. In this chapter, we will explore how augmented and virtual reality (AR/VR) experiences can enhance the guest experience and provide new opportunities for hotel operators.
 

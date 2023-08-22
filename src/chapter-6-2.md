@@ -1,5 +1,4 @@
-Hilton's Digital Key
-==================================================================
+
 
 In this chapter, we will explore a case study of how artificial intelligence (AI) is being used in the hospitality industry. Specifically, we will focus on Hilton's Digital Key, a technology that allows guests to use their mobile device to check-in and access their room, bypassing the traditional check-in process.
 

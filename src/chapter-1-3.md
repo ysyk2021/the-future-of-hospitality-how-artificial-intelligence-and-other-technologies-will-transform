@@ -1,5 +1,4 @@
-The Role of AI in Hospitality
-===========================================
+
 
 Artificial intelligence (AI) is playing an increasingly important role in the hospitality industry. From improving operational efficiency to enhancing guest experiences, AI is transforming the way hospitality businesses operate.
 
