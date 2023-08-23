@@ -1,5 +1,4 @@
 
-
 While artificial intelligence (AI) holds enormous potential for the hospitality industry, its adoption also raises concerns about workforce and employment effects. In this chapter, we will explore the challenges and opportunities of AI in the hospitality workforce.
 
 Potential Benefits of AI in the Hospitality Workforce

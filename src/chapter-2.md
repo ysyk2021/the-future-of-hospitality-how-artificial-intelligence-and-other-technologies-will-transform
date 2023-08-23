@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is transforming the hospitality industry, enabling hotels and other businesses to enhance guest experiences, streamline operations, and maximize profitability. In this chapter, we will explore the foundations of AI in hospitality, including an overview of AI techniques, virtual assistants and chatbots, facial recognition and biometrics, and robotics and automated services.
 
 Overview of AI Techniques in Hospitality

@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is revolutionizing the way hotels and resorts manage their revenue. In this chapter, we will explore how AI is being used in revenue management and how it is transforming the hospitality industry.
 
 What is Revenue Management?

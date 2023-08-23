@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is playing an increasingly important role in the hospitality industry. From improving operational efficiency to enhancing guest experiences, AI is transforming the way hospitality businesses operate.
 
 AI is a collection of technologies and algorithms that enable computers to perform tasks that would typically require human intelligence, such as natural language processing, machine learning, and computer vision. In the hospitality industry, AI is being used in a variety of ways, including:

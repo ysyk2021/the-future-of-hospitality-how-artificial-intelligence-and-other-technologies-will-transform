@@ -1,5 +1,4 @@
 
-
 Smart room technologies powered by AI and related technologies are transforming the guest experience in the hospitality industry. In this chapter, we will explore the ways in which smart room technologies are enhancing the guest experience and driving innovation in the industry.
 
 Introduction to Smart Room Technologies

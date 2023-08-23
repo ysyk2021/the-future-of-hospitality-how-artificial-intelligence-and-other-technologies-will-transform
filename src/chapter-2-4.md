@@ -1,5 +1,4 @@
 
-
 In recent years, the hospitality industry has increasingly turned to artificial intelligence (AI) to improve efficiency, enhance guest experiences, and reduce costs. One area where AI is making a significant impact is in robotics and automated services. In this chapter, we will explore the foundations of AI in hospitality, specifically focusing on robotics and automated services.
 
 What are Robotics and Automated Services?

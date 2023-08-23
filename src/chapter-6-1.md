@@ -1,5 +1,4 @@
 
-
 Marriott International, one of the largest hotel chains in the world, has been at the forefront of embracing artificial intelligence (AI) and other advanced technologies to enhance the guest experience. In this chapter, we will explore a case study of how Marriott has implemented chatbots to improve customer service.
 
 Background on Marriott's Use of Chatbots

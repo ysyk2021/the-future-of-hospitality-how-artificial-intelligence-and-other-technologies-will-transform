@@ -1,5 +1,4 @@
 
-
 As AI continues to evolve, the potential for its impact on the hospitality industry and society as a whole is vast. In this chapter, we will explore the ways in which AI may transform the hospitality industry in the future and its potential impact on society.
 
 Introduction to AI in Hospitality

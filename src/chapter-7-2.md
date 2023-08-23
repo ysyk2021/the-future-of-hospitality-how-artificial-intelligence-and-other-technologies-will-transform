@@ -1,5 +1,4 @@
 
-
 As artificial intelligence (AI) continues to transform industries, including hospitality, it is important to consider the policy and regulatory frameworks that will govern its use. While AI has the potential to improve efficiency, personalize guest experiences, and reduce costs, it also raises concerns around privacy, ethics, and accountability.
 
 In this chapter, we explore the future of AI in the hospitality industry from a regulatory perspective. We examine the current state of AI regulation, the challenges facing regulators, and the opportunities for creating responsible and ethical AI policies.

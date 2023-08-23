@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is transforming the hospitality industry, and virtual assistants and chatbots are two foundational technologies that are making this happen. In this chapter, we will explore how virtual assistants and chatbots are being used in hospitality and the benefits they bring.
 
 What are Virtual Assistants and Chatbots?

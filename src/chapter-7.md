@@ -1,5 +1,4 @@
 
-
 As AI technologies become increasingly sophisticated and ubiquitous, the hospitality industry is poised to experience significant transformation in the coming years. In this chapter, we will examine the future of AI in hospitality, including emerging technologies and trends, policy and regulatory frameworks, collaboration and partnerships, and the potential impact on society and the industry.
 
 Emerging Technologies and Trends

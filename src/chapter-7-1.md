@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is rapidly transforming the hospitality industry, with new technologies and trends emerging every year. In this chapter, we will explore some of the most promising emerging technologies and trends shaping the future of AI in hospitality.
 
 Augmented Reality (AR) and Virtual Reality (VR)

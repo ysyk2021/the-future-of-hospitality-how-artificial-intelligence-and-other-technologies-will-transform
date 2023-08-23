@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is rapidly transforming the hospitality industry, with a wide range of applications that can improve operational efficiency, enhance guest experiences, and increase revenue. In this chapter, we will explore the ways in which AI can be applied to optimize hospitality operations.
 
 Revenue Management

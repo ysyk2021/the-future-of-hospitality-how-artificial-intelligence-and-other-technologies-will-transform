@@ -1,5 +1,4 @@
 
-
 As the hospitality industry continues to embrace artificial intelligence (AI) and other advanced technologies, facial recognition and biometrics are emerging as important areas of development. In this chapter, we will explore the foundations of AI in hospitality, specifically focusing on facial recognition and biometrics.
 
 What is Facial Recognition and Biometrics?

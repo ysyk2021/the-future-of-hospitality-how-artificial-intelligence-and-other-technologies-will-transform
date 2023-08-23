@@ -1,5 +1,4 @@
 
-
 Voice-activated hotel rooms are a rapidly growing trend in the hospitality industry, powered by advancements in AI and related technologies. In this chapter, we will explore the ways in which voice-activated hotel rooms are transforming the guest experience and driving innovation in the industry.
 
 Introduction to Voice-Activated Hotel Rooms

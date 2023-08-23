@@ -1,5 +1,4 @@
 
-
 The hospitality industry relies on efficient inventory and supply chain management to ensure that guests are provided with a wide range of amenities and services. Artificial intelligence (AI) offers new opportunities to optimize the entire supply chain and inventory processes. In this chapter, we will explore the ways in which AI can be applied to enhance inventory and supply chain management in the hospitality industry.
 
 Predictive Analytics
